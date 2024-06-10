@@ -1,5 +1,5 @@
 # Business Insights 360°
-
+My Power BI project for AtliQ Hardware.
 ### Project Overview
 AtliQ Hardware (a hypothetical company) has experienced rapid growth in recent years and has decided to implement data analytics using Power BI for the first time. This initiative aims to outpace market competitors and facilitate data-driven decision-making. The project is expected to address stakeholder inquiries across various areas, including finance, sales, marketing, and supply chain.
 
