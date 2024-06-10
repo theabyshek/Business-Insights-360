@@ -140,3 +140,21 @@ Since the database used in this project is MySQL, we need to import the datasets
 - In this project, we have employed the Snowflake data modeling method.
 
 <img src="https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Data_model.png" class="center">
+
+### Dashboard designing
+Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
+
+**Home view**
+In Home view, all the views button will be available. User will land on specific view page by clicking the button
+
+- Info
+- Finance View
+- Sales View
+- Marketing View
+- Supply chain View
+- Executive View
+- Products
+- Support
+
+### Project Outcome
+This report enables data-driven decision-making and can help address numerous "why" questions based on various situations.
