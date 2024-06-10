@@ -156,5 +156,7 @@ In Home view, all the views button will be available. User will land on specific
 - Products
 - Support
 
+<img src="https://github.com/theabyshek/Business-Insights-360-/blob/main/Home%20page.png" class="center">
+
 ### Project Outcome
 This report enables data-driven decision-making and can help address numerous "why" questions based on various situations.
